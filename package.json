@@ -1,10 +1,10 @@
 {
-  "name": "homebridge-mqtt",
+  "name": "homebridge-mqtt-lars",
   "version": "1.0.1",
   "description": "MQTT Plugin for Homebridge",
   "license": "ISC",
   "author": {
-    "name": "flurin"
+    "name": "larsjuhw"
   },
   "keywords": [
     "homebridge",
@@ -16,10 +16,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/cflurin/homebridge-mqtt.git"
+    "url": "https://github.com/larsjuhw/homebridge-mqtt-lars.git"
   },
   "bugs": {
-    "url": "http://github.com/cflurin/homebridge-mqtt/issues"
+    "url": "http://github.com/larsjuhw/homebridge-mqtt-lars/issues"
   },
   "engines": {
     "node": ">=4.3.2",
